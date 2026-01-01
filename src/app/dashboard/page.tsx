@@ -1,8 +1,7 @@
 export default function DashboardPage() {
   return (
-    <main style={{ padding: 40 }}>
-      <h1>Dashboard</h1>
-      <p>GitHub login required</p>
-    </main>
+    <div style={{ fontSize: 40 }}>
+      DASHBOARD WORKS IN PROD
+    </div>
   );
 }
