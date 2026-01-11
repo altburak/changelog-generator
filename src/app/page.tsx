@@ -1,4 +1,4 @@
-"use client"  // ← Bu satırı en üste ekle
+"use client"  
 
 import { signIn } from "next-auth/react"
 
